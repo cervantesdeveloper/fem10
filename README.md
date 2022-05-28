@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cervantesdeveloper/fem10.git)
-- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/fem10/overview)
+- Solution URL: [Solution here](https://github.com/cervantesdeveloper/fem10.git)
+- Live Site URL: [Live site here](https://fem10.netlify.app/)
 
 ## My process
 
@@ -52,9 +52,9 @@ I need more practice on the CSS grid, I hope to use it in the next challenges.
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout) - This helped me remember the basics of the CSS grid.
+- [mdn web docs](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout) - This helped me remember the basics of the CSS grid.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cervantesdeveloper)
-- Github - [@yourusername](https://github.com/cervantesdeveloper)
+- Frontend Mentor - [@cervantesdeveloper](https://www.frontendmentor.io/profile/cervantesdeveloper)
+- Github - [cervantesdeveloper](https://github.com/cervantesdeveloper)
